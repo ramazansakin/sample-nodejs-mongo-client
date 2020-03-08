@@ -1,8 +1,8 @@
 # Sample NodeJs project via MongoDB
 
-  Sample nodeJs project with mongoDB is to show integrating kafta to nodeJs and communication via Spring boot project.
-Because spring boot side is microservices architecture, we can use any technologies we are familier with most and
-easy to integrate them via Kafka, RestTemplate or any other message queue techs.
+  Sample nodeJs project with mongoDB is to show integrating kafta to nodeJs and communication via Spring boot cloud project.
+Because spring boot side is microservices architecture, we can use any technologies we are familier with mostly and
+easy to integrate them via Kafka, RestTemplate, Redis or any other message queue techs.
 
 You can run this app via creating a mongoDB database and reconfigure app.js
 You have 3 options to be able to use mongoDb:
